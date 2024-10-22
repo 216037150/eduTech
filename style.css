@@ -11,4 +11,13 @@ body {
     font-family: verdana;
     font-size: 20px;
   }
+<<<<<<< HEAD
+=======
+
+  button{
+    text-align: center;
+    background-color: aqua;
+    color: red;
+  }
+>>>>>>> origin/FOOTER
   
