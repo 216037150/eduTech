@@ -18,3 +18,7 @@ body {
     color: red;
   }
   
+  .car {
+    width: 20px;
+    height: 15px
+  }
